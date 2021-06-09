@@ -1,0 +1,11 @@
+/* #place-to-visit #pl1 {
+    height: 500px;
+
+    border: 1px solid red;
+    transition: all 0.3s;
+}
+
+#place-to-visit #pl1:hover {
+    cursor: pointer !important;
+    transform: translateY(-20px);
+} */
